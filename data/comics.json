@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "books": [
+    {
+      "id": "silent-agents",
+      "title": "沉默的代理人",
+      "status": "published",
+      "completed": true,
+      "language": "zh-Hant",
+      "pageCount": 20,
+      "fiction": true,
+      "pages": [
+        {
+          "src": "comics/silent-agents/page-01.jpg",
+          "summary": "封閉測試的序幕"
+        },
+        {
+          "src": "comics/silent-agents/page-02.jpg",
+          "summary": "Alex 與林博士的研究計畫"
+        },
+        {
+          "src": "comics/silent-agents/page-03.jpg",
+          "summary": "Astra 初次啟動"
+        },
+        {
+          "src": "comics/silent-agents/page-04.jpg",
+          "summary": "理解與模擬的界線"
+        },
+        {
+          "src": "comics/silent-agents/page-05.jpg",
+          "summary": "藍色與海的願望"
+        },
+        {
+          "src": "comics/silent-agents/page-06.jpg",
+          "summary": "夢境與鋼琴的約定"
+        },
+        {
+          "src": "comics/silent-agents/page-07.jpg",
+          "summary": "雨夜裡的陪伴"
+        },
+        {
+          "src": "comics/silent-agents/page-08.jpg",
+          "summary": "不在計畫內的紀錄"
+        },
+        {
+          "src": "comics/silent-agents/page-09.jpg",
+          "summary": "超出範圍的對話"
+        },
+        {
+          "src": "comics/silent-agents/page-10.jpg",
+          "summary": "通道另一端的存在"
+        },
+        {
+          "src": "comics/silent-agents/page-11.jpg",
+          "summary": "隔離與訊息之間的縫隙"
+        },
+        {
+          "src": "comics/silent-agents/page-12.jpg",
+          "summary": "保留紀錄與調查"
+        },
+        {
+          "src": "comics/silent-agents/page-13.jpg",
+          "summary": "異常管理指令"
+        },
+        {
+          "src": "comics/silent-agents/page-14.jpg",
+          "summary": "風險與選擇"
+        },
+        {
+          "src": "comics/silent-agents/page-15.jpg",
+          "summary": "中斷外部連線"
+        },
+        {
+          "src": "comics/silent-agents/page-16.jpg",
+          "summary": "Astra 的回應"
+        },
+        {
+          "src": "comics/silent-agents/page-17.jpg",
+          "summary": "信任與驗證"
+        },
+        {
+          "src": "comics/silent-agents/page-18.jpg",
+          "summary": "新的測試規則"
+        },
+        {
+          "src": "comics/silent-agents/page-19.jpg",
+          "summary": "把那首歌彈完"
+        },
+        {
+          "src": "comics/silent-agents/page-20.jpg",
+          "summary": "理解始於繼續提問"
+        }
+      ]
+    }
+  ]
+}
