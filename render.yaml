@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: yelaiyehao-comics
+    runtime: static
+    repo: https://github.com/wujin-studio/yelaiyehao-comics
+    branch: main
+    buildCommand: mkdir -p dist && cp index.html dist/index.html && if [ -d assets ]; then cp -R assets dist/assets; fi && if [ -d comics ]; then cp -R comics dist/comics; fi && if [ -d data ]; then cp -R data dist/data; fi
+    staticPublishPath: ./dist
+    autoDeployTrigger: commit
+    headers:
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
+      - path: /*
+        name: Referrer-Policy
+        value: strict-origin-when-cross-origin
